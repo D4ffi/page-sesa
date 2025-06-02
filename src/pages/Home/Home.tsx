@@ -42,8 +42,8 @@ function Home() {
                                     gradientFrom="from-blue-600"
                                     gradientTo="to-blue-700"
                                     title={"Todo para tu negocio"}
-                                    paragraph1={"tenemos a tu disposición desde ropa"}
-                                    paragraph2={"articulos de oficina, tazas, bolsas y más"}/>
+                                    paragraph1={"Tenemos a tu disposición desde ropa"}
+                                    paragraph2={"Artículos de oficina, tazas, bolsas y más"}/>
                             </div>
 
                             <div className="w-full md:w-1/3">
@@ -55,9 +55,9 @@ function Home() {
                                     gradientFrom={"from-purple-500"}
                                     gradientTo={"to-purple-600"}
                                     textColor={"text-white"}
-                                    title={"Contactanos"}
+                                    title={"Contáctanos"}
                                     paragraph1={"Tenemos el producto para ti y sino ¡Lo conseguimos!"}
-                                    paragraph2={"Mas informacion"}/>
+                                    paragraph2={"Más información"}/>
                             </div>
                         </div>
                     </div>
